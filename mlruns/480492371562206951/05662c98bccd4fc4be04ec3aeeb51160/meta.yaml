@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/05662c98bccd4fc4be04ec3aeeb51160/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: 05662c98bccd4fc4be04ec3aeeb51160
+run_name: wistful-sloth-672
+run_uuid: 05662c98bccd4fc4be04ec3aeeb51160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766481691368
+status: 1
+tags: []
+user_id: Lenovo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/c5b70762e1b143ef865ae34036d159fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: c5b70762e1b143ef865ae34036d159fa
+run_name: silent-snipe-234
+run_uuid: c5b70762e1b143ef865ae34036d159fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766482347726
+status: 1
+tags: []
+user_id: Lenovo
