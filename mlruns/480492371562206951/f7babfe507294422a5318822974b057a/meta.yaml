@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/f7babfe507294422a5318822974b057a/artifacts
+end_time: 1766523455555
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: f7babfe507294422a5318822974b057a
+run_name: welcoming-jay-925
+run_uuid: f7babfe507294422a5318822974b057a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766523419451
+status: 3
+tags: []
+user_id: Lenovo

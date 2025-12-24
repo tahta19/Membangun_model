@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/ebdb4ce2789648c68792e6fd3dd3be69/artifacts
+end_time: 1766523455555
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: ebdb4ce2789648c68792e6fd3dd3be69
+run_name: intelligent-rat-384
+run_uuid: ebdb4ce2789648c68792e6fd3dd3be69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766523419451
+status: 3
+tags: []
+user_id: Lenovo

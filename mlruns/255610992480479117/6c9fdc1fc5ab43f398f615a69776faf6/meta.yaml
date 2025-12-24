@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/255610992480479117/6c9fdc1fc5ab43f398f615a69776faf6/artifacts
+end_time: 1766523317531
+entry_point_name: ''
+experiment_id: '255610992480479117'
+lifecycle_stage: active
+run_id: 6c9fdc1fc5ab43f398f615a69776faf6
+run_name: flawless-lamb-149
+run_uuid: 6c9fdc1fc5ab43f398f615a69776faf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766523296435
+status: 3
+tags: []
+user_id: Lenovo

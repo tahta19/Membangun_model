@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/24f5da29709f4927adea206422019972/artifacts
+end_time: 1766523455555
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: 24f5da29709f4927adea206422019972
+run_name: beautiful-smelt-628
+run_uuid: 24f5da29709f4927adea206422019972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766523419451
+status: 3
+tags: []
+user_id: Lenovo
