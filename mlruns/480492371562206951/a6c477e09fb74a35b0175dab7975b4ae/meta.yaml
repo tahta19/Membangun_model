@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/a6c477e09fb74a35b0175dab7975b4ae/artifacts
+end_time: 1766538224565
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: a6c477e09fb74a35b0175dab7975b4ae
+run_name: bustling-deer-736
+run_uuid: a6c477e09fb74a35b0175dab7975b4ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766538213653
+status: 3
+tags: []
+user_id: Lenovo

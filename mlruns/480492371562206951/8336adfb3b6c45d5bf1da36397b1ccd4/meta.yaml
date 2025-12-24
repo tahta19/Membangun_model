@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480492371562206951/8336adfb3b6c45d5bf1da36397b1ccd4/artifacts
+end_time: 1766537901830
+entry_point_name: ''
+experiment_id: '480492371562206951'
+lifecycle_stage: active
+run_id: 8336adfb3b6c45d5bf1da36397b1ccd4
+run_name: casual-kite-433
+run_uuid: 8336adfb3b6c45d5bf1da36397b1ccd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766537891329
+status: 4
+tags: []
+user_id: Lenovo

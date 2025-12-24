@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/255610992480479117/c5fcfeefad2545829b98371a7f6d2046/artifacts
+end_time: 1766537851207
+entry_point_name: ''
+experiment_id: '255610992480479117'
+lifecycle_stage: active
+run_id: c5fcfeefad2545829b98371a7f6d2046
+run_name: adorable-crab-72
+run_uuid: c5fcfeefad2545829b98371a7f6d2046
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766537837475
+status: 3
+tags: []
+user_id: Lenovo

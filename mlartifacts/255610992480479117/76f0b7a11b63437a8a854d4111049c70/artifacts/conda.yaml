@@ -1,0 +1,9 @@
+name: mlflow-env
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - mlflow
+  - pip:
+    - joblib

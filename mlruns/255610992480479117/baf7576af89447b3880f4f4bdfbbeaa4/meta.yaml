@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/255610992480479117/baf7576af89447b3880f4f4bdfbbeaa4/artifacts
+end_time: 1766538083509
+entry_point_name: ''
+experiment_id: '255610992480479117'
+lifecycle_stage: active
+run_id: baf7576af89447b3880f4f4bdfbbeaa4
+run_name: smiling-cod-233
+run_uuid: baf7576af89447b3880f4f4bdfbbeaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766538064789
+status: 3
+tags: []
+user_id: Lenovo
